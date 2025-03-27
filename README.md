@@ -14,7 +14,7 @@ Investment bankers and M&A advisors spend significant time performing repetitive
 
 ### Backend (Flexible)
 
-- You may use Next.js API routes, or any other backend language/framework of your preference.
+- You may use Next.js server actions, API routes, or any other backend language/framework of your preference.
 - Your backend must perform web scraping and/or use AI-driven methods to parse and extract portfolio company data.
 - Ensure accurate and comprehensive extraction of:
   - **Company Names**
@@ -41,6 +41,7 @@ Your solution should handle varying HTML structures and potential complexities p
 
 - You're encouraged to utilize AI/ML or NLP tools to enhance the comprehensiveness and accuracy of data extraction.
 - Clearly document any AI models, scraping libraries, APIs, or external services used.
+- How would you evaluate the output of the system?
 
 ## Testability and Deployment
 
